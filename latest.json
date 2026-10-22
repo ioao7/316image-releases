@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "files": {
+    "macos-aarch64": "316image-0.1.0-macos-aarch64.zip",
+    "windows-x64": "316image-0.1.0-windows-x64.msi"
+  }
+}
